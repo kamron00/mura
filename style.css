@@ -1,0 +1,41 @@
+h1{
+    text-align: center; 
+    font-size: 30px;
+    font-weight: 400;
+    border: 1px groove blue;
+    border-radius: 60%;
+}
+h2{
+   font-size: 100 px;
+   font-weight: 500;
+  border:4px double chartreuse;
+}
+h3{
+    font-size: larger;
+    font-weight: 600;
+    border: 5px inset red;
+}
+h4{
+    font-size: small;
+    font-weight: normal;
+    border: 7px outset blue;
+}
+h5{
+    font-size:large;
+    font-weight: 600;
+    border: 20px; dashed firebrick;
+}   
+h6{
+    font-size: xx-small;
+    font-weight: 900;
+    border: 30px dashed brown;
+}
+body{
+ background: bisque;
+ text-align: center;
+}
+img{
+    width: 20%;
+    border-radius: 50%;
+}
+
